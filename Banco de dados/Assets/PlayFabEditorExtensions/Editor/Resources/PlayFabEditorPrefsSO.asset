@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: jogosdigitaissesi2a@gmail.com
+  DevAccountToken: y7xmkjd5smapd7c997p7szddd38jr3phxn7ykqkq8kajnxzkc9a7amea4i537wd3hm1muu5zyiwcdwupixtw91qtn45subt9sdj6kecfn8jmjt7jebzoujzcts7b3cdz5rpbtztmo4dmc7wpjujb4kgycuctqpm6gfx6g1e8f6hq3mxg6f1rh4idn79wg6w8b897ebqw
+  AadAuthorization: 
+  SelectedStudio: Jogos Digitais Sesi 2A
+  SdkPath: Assets/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0
